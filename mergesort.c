@@ -12,7 +12,7 @@ void Merge(int a[],int low,int mid,int high)
     els
         b[k++]=a[j++];
     }
-     while(i<=mid)
+     whil(i<=mid)
      b[k++]=a[i++];
      while(j<=high)
      b[k++]=a[j++];
