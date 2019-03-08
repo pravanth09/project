@@ -9,7 +9,7 @@ void Merge(int a[],int low,int mid,int high)
   {
     if(a[i]<=a[j])
     b[k++]=a[i++];
-    else
+    els
         b[k++]=a[j++];
     }
      while(i<=mid)
